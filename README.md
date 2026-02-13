@@ -11,24 +11,57 @@
 
 ## 🌌 ABOUT ME
 
-```typescript
-const developer = {
-    name: "Bagus Wisma Saputra",
-    location: "🌍 Indonesia",
-    role: "UI/UX Designer | Frontend Developer",
-    code: ["JavaScript", "HTML", "CSS"],
-    technologies: {
-        frontEnd: {
-            frameworks: ["Vue.js", "Tailwind CSS"],
-            styling: ["Tailwind CSS", "CSS3"],
-        },
-        design: ["Figma"],
-        tools: ["Vite", "VS Code", "Git"],
-        currentFocus: "Creating beautiful & intuitive user experiences",
-        funFact: "I design in Figma and bring it to life with code! 🎨✨"
-    }
-};
-```
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
+### 👨‍💻 Who Am I?
+
+**Bagus Wisma Saputra**  
+🌍 Based in Indonesia
+
+UI/UX Designer & Frontend Developer passionate about creating beautiful, intuitive digital experiences. I bridge the gap between design and development, turning creative visions into functional realities.
+
+</td>
+<td align="center" width="50%">
+
+### 💼 What I Do?
+
+🎨 **Design** user interfaces in Figma  
+💻 **Develop** with Vue.js & Tailwind  
+⚡ **Optimize** for performance & UX  
+🚀 **Ship** pixel-perfect products
+
+</td>
+</tr>
+</table>
+
+<br>
+
+### 🛠️ My Tech Arsenal
+
+<table align="center">
+<tr>
+<td align="center" width="33%">
+
+**💻 Languages**  
+JavaScript • HTML • CSS
+
+</td>
+<td align="center" width="33%">
+
+**🎨 Design & Frameworks**  
+Figma • Vue.js • Tailwind CSS
+
+</td>
+<td align="center" width="33%">
+
+**🔧 Tools**  
+Vite • VS Code • Git
+
+</td>
+</tr>
+</table>
 
 <!-- Neon Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
@@ -68,13 +101,13 @@ const developer = {
 
 <div align="center">
   
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=baguswismasaputra&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF&ring_color=00F7FF" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=bagus622&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF&ring_color=00F7FF" alt="GitHub Stats"/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=baguswismasaputra&theme=radical&hide_border=true&background=0D1117&ring=00F7FF&fire=FF6D00&currStreakLabel=00F7FF&sideLabels=00F7FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B8B8B" alt="GitHub Streak"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=bagus622&theme=radical&hide_border=true&background=0D1117&ring=00F7FF&fire=FF6D00&currStreakLabel=00F7FF&sideLabels=00F7FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B8B8B" alt="GitHub Streak"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baguswismasaputra&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF" alt="Top Languages"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bagus622&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF" alt="Top Languages"/>
 
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=baguswismasaputra&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph"/>
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=bagus622&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph"/>
 
 </div>
 
@@ -85,7 +118,7 @@ const developer = {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=baguswismasaputra&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=bagus622&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -94,15 +127,36 @@ const developer = {
 
 ## 🎯 CURRENT FOCUS
 
+<table align="center">
+<tr>
+<td align="center" width="33%">
+
+### 🎨 Design
+Crafting intuitive user interfaces and design systems in Figma with focus on accessibility and user-centered design principles
+
+</td>
+<td align="center" width="33%">
+
+### 💻 Development
+Building responsive web applications with Vue.js and Tailwind CSS, optimizing performance and code quality
+
+</td>
+<td align="center" width="33%">
+
+### 📚 Learning
+Exploring advanced JavaScript patterns, frontend architecture, and contributing to open-source design systems
+
+</td>
+</tr>
+</table>
+
+<br>
+
 <div align="center">
 
-```javascript
-🎨 Designing user-centric interfaces in Figma
-💻 Building responsive web applications with Vue.js  
-⚡ Mastering Tailwind CSS utilities & components
-🌐 Contributing to open-source design systems
-📚 Learning advanced JavaScript & frontend optimization
-```
+**🚀 Currently Working On:** Bridging the gap between design and development  
+**🎯 2024 Goal:** Ship more user-centric products and grow as a design engineer  
+**💡 Fun Fact:** I design in Figma and bring it to life with code! 🎨✨
 
 </div>
 
@@ -139,15 +193,15 @@ const developer = {
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=baguswismasaputra&style=for-the-badge&color=00F7FF&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=bagus622&style=for-the-badge&color=00F7FF&label=PROFILE+VIEWS)
 
 </div>
 
 <!-- Snake Animation -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/baguswismasaputra/baguswismasaputra/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/baguswismasaputra/baguswismasaputra/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/baguswismasaputra/baguswismasaputra/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bagus622/bagus622/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bagus622/bagus622/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/bagus622/bagus622/output/github-contribution-grid-snake.svg">
 </picture>
 
 <!-- Footer Wave -->
