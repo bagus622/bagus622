@@ -1,92 +1,97 @@
-<!-- ================= HEADER ================= -->
+<!-- ================= HERO ================= -->
 
-<h1 align="center">Hi 👋, I'm Bagus Wisma Saputra</h1>
-<h3 align="center">Web Developer | SaaS Builder | Creative Thinker</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=6C63FF&center=true&vCenter=true&width=500&lines=Building+Modern+Web+Applications;Frontend+Developer;SaaS+Enthusiast;Creative+Problem+Solver" />
-</p>
-
----
-
-## 🚀 About Me
-
-- 🔭 Currently building modern web applications
-- 🧠 Exploring SaaS architecture & AI-based tools
-- ✍ Passionate about storytelling & creative writing
-- 🎯 Focused on creating impactful digital products
-- 📈 Always learning & improving every day
-
----
-
-## 🛠 Tech Stack
-
-### 💻 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js" />
-</p>
-
-### ⚙ Tools & Platform
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
-</p>
-
----
-
-## 🌟 Featured Projects
-
-- 🛒 **E-Commerce Platform (No Database)**
-- 🎬 **SCENA – Streaming Web App**
-- 🤖 **AI Text Generator SaaS**
-- 📚 **Novel Writing Platform**
-- 🏘️ **Lapor Warga System**
-
----
-
-## 📊 GitHub Stats
+<h1 align="center">Bagus Wisma Saputra</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bagus622&show_icons=true&theme=tokyonight" />
+  <strong> UI/UX Desainer  • Front End </strong>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=bagus622&theme=tokyonight" />
+  I design and build scalable digital products with clean systems and long-term vision.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bagus622&layout=compact&theme=tokyonight" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3500&color=0A66C2&center=true&vCenter=true&width=700&lines=Building+Digital+Products;SaaS+Focused+Developer;AI-Driven+Web+Applications;System+Thinking+Engineer" />
 </p>
 
 ---
 
-## 🚀 Current Focus
+## Philosophy
 
-- 🔥 Building scalable SaaS UI
-- 🎨 Clean modern UI/UX design
-- 🤖 AI-based web applications
-- 📦 Improving JavaScript architecture
+I believe great products are built with:
 
----
+• Clear structure  
+• Scalable systems  
+• Thoughtful user experience  
+• Long-term vision  
 
-## 🎯 2026 Goals
-
-- 🚀 Launch personal SaaS product
-- 🌍 Build impactful digital platform
-- 📚 Publish creative digital works
-- 💡 Master advanced frontend system design
+Technology is not just code — it's leverage.
 
 ---
 
-## 📫 Connect With Me
+## Current Direction
 
-<p>
+- Architecting frontend-first SaaS systems  
+- Developing AI-powered web platforms  
+- Building modular & scalable UI foundations  
+- Exploring digital product monetization  
+
+---
+
+## Core Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,figma" />
+</p>
+
+Focused on clean architecture, modular JavaScript, and modern UI systems.
+
+---
+
+## Product Highlights
+
+• AI Text Generator Platform  
+• SCENA – Streaming Interface System  
+• E-Commerce Engine (No Backend Architecture)  
+• Web-Based Novel Publishing Platform  
+• Public Reporting Digital System  
+
+Each project is built with structure, not just visuals.
+
+---
+
+## GitHub Intelligence
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=bagus622&show_icons=true&theme=transparent&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bagus622&layout=compact&theme=transparent&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=bagus622&theme=transparent&hide_border=true" />
+</p>
+
+---
+
+## 2026 Vision
+
+Launch an independent SaaS product  
+Build intelligent web ecosystems  
+Create digital tools with real-world impact  
+Develop strong product architecture foundation  
+
+---
+
+## Connect
+
+<p align="center">
   <a href="https://github.com/bagus622">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=flat-square&logo=github" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  ⭐ If you like my projects, feel free to star them!
+  <em>Build Systems. Ship Products. Think Long Term.</em>
 </p>
